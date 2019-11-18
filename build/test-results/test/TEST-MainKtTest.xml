@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainKtTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2019-11-18T04:07:32" hostname="MS-7977" time="0.027">
+  <properties/>
+  <testcase name="returns number of test cases from standard input" classname="MainKtTest" time="0.007"/>
+  <testcase name="returns the inclusive guessing range from standard input" classname="MainKtTest" time="0.013"/>
+  <testcase name="throws when getting guessing range with invalid first number" classname="MainKtTest" time="0.001"/>
+  <testcase name="throws when getting guessing range with invalid second number" classname="MainKtTest" time="0.0"/>
+  <testcase name="returns number of retries allowed from standard input" classname="MainKtTest" time="0.0"/>
+  <testcase name="guesses the middle number of the guessing range to standard output" classname="MainKtTest" time="0.0"/>
+  <testcase name="isTooSmall returns true when value is TOO_SMALL" classname="MainKtTest" time="0.0"/>
+  <testcase name="isTooSmall returns false when value is not TOO_SMALL" classname="MainKtTest" time="0.0"/>
+  <testcase name="isTooBig returns true when value is TOO_BIG" classname="MainKtTest" time="0.0"/>
+  <testcase name="isTooBig returns false when value is not TOO_BIG" classname="MainKtTest" time="0.0"/>
+  <testcase name="isWrongAnswer returns true when value is WRONG_ANSWER" classname="MainKtTest" time="0.0"/>
+  <testcase name="isWrongAnswer returns false when value is not WRONG_ANSWER" classname="MainKtTest" time="0.0"/>
+  <testcase name="isCorrect returns true when value is CORRECT" classname="MainKtTest" time="0.0"/>
+  <testcase name="isCorrect returns false when value is not CORRECT" classname="MainKtTest" time="0.0"/>
+  <testcase name="computes range with lower bound bigger than guessed number and higher bound equal to initial range higher bound" classname="MainKtTest" time="0.0"/>
+  <testcase name="computes range with higher bound lower than guessed number and lower bound equal to initial range lower bound" classname="MainKtTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
